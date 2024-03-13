@@ -1,5 +1,5 @@
 # Guess My Number Game
-
+[Click here To play](https://mantuk360.github.io/Guess-My-Number/)
 ## Description
 
 Welcome to the Guess My Number web application! This project is dynamic and user-friendly game that will test youe guessing skills.Built with HTML, CSS, and JavaScript, the game leverages the power of the Document Object Model (DOM) to provide an engaging and interactive experience for players.
